@@ -5,7 +5,7 @@
 An intuitive Dash application that empowers Verizon customers to explore and customize their plan options, providing transparent pricing and accurate cost estimates for a seamless decision-making experience.
 
 <p align="center">
-  <img src="https://i.postimg.cc/26frK45J/wolf.jpg" alt="Wolf Image" width="400">
+  <img src="[https://i.postimg.cc/26frK45J/wolf.jpg](https://i.postimg.cc/rppJ67GN/image.png)" alt="Wolf Image" width="400">
 </p>
 
 ## 🌟 Features
