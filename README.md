@@ -5,7 +5,7 @@
 An intuitive Dash application that empowers Verizon customers to explore and customize their plan options, providing transparent pricing and accurate cost estimates for a seamless decision-making experience.
 
 <p align="center">
-  <img src="https://i.postimg.cc/rppJ67GN/image.png" alt="Verizon Logo" width="400">
+  <img src="https://i.postimg.cc/T3tfN5yq/Verizon-logo-2187705026.png" alt="Verizon Logo" width="400">
 </p>
 
 ## 🌟 Features
@@ -28,7 +28,7 @@ An intuitive Dash application that empowers Verizon customers to explore and cus
 The application is deployed and accessible at [https://calcvn.pythonanywhere.com/](https://calcvn.pythonanywhere.com/), providing a convenient way for Verizon customers to explore and estimate their plan costs.
 
 <p align="center">
-  <img src="https://i.postimg.cc/L6bfYhjL/image.png" alt="Application Screenshot" width="800">
+  <img src="https://i.postimg.cc/P5st8ngY/YH-App.jpg" alt="Application Screenshot" width="800">
 </p>
 
 ## 🤝 Contributing
